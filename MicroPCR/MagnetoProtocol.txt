@@ -1,0 +1,26 @@
+home
+%ready
+
+%heating 70
+heating 56
+%home
+%heating 0
+magnet on
+%home
+magnet off
+
+%pumping up 300
+%goto 5
+%pumping down full
+%goto 3
+%pumping up 300
+%goto 5
+%pumping down 500
+
+%Goto 13
+%Pumping Up 60
+%goto 5
+
+
+%pcr
+%home

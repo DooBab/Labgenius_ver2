@@ -1,0 +1,2 @@
+[2015:12:07-22:41:04] cmd: 1, targetTemp: 95.0, temp: 63.2, elapsed time: 0m 0s, line Time: 5s, protocol Time: 35s, device TargetArr: 0, mfc TargetArr: 0, free Running: 0, free Running Counter: 0, ArrivalDelta: 0.5, tempFlag: 0, photodiode: 0.0
+[2015:12:07-22:41:05] cmd: 1, targetTemp: 95.0, temp: 80.9, elapsed time: 0m 1s, line Time: 5s, protocol Time: 35s, device TargetArr: 0, mfc TargetArr: 0, free Running: 0, free Running Counter: 0, ArrivalDelta: 0.5, tempFlag: 0, photodiode: 0.0
